@@ -29,4 +29,4 @@ page. Place the blocks so that they are horizontally centered on the page.
 
  [DEMO LINK]("https://shklyarigor2015.github.io/layout_style-it-up/")<br>
  [TEST REPORT LINK]("https://shklyarigor2015.github.io/layout_style-it-up/report/html_report/")<br>
- [PR]("https://github.com/mate-academy/layout_style-it-up/pull/159")
+ [PR]("https://github.com/mate-academy/layout_style-it-up/pull/160")
