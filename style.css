@@ -4,23 +4,23 @@ body {
 }
 
 #header {
-  background-color: darkgreen;
+  background-color: blue;
 }
 
 .important {
-  background-color: darkblue;
+  background-color: darkred;
 }
 
 .interesting {
-  background-color: yellow;
+  background-color: darkgreen;
 }
 
 .surprising {
-  background-color: rebeccapurple;
+  background-color: darkorange;
 }
 
 #footer {
-  background-color: peru;
+  background-color: black;
 }
 
 #header,
